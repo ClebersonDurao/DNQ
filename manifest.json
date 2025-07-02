@@ -1,0 +1,14 @@
+
+{
+  "name": "DNQ - Pódio Virtual",
+  "short_name": "DNQ",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "description": "App de pódio virtual da equipe Duros na Queda Road",
+  "icons": [{
+    "src": "icon.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }]
+}
